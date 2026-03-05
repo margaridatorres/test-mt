@@ -7,3 +7,17 @@ This is a demo content for a test repository.
 ## subheadline until 6#
 
 Demo content
+
+### Special styles
+
+**bold**
+__bold__
+*italic*
+_italic_
+~~strick sthrough~~
+> Quotation
+
+
+--- Horizontal rule
+*** asterisks
+___underscores
