@@ -23,7 +23,7 @@ ___underscores
 
 # Code
 
-```
+```js
 let x = 5;
 console.log(x);
 ```
