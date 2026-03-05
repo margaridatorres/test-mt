@@ -30,6 +30,15 @@ console.log(x);
 
 or `like` this
 
+# Tables
+
+| Left  |  Center  | Right    |
+| ----- | :------: | -------: |
+| One   | Two      | €1.00    |
+| Three | Four     | €120.00  |
+| Five  | Six      | €.99     |
+
+
 # List
 - nbr1
 - nbr2
