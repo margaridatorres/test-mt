@@ -46,9 +46,10 @@ https://www.linkedin.com
 
 # Code
 
-'''
-in block
-'''
+```
+let x = 5;
+console.log(x);
+```
 
-or 'like' this
+or `like` this
 
