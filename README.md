@@ -11,13 +11,19 @@ Demo content
 ### Special styles
 
 **bold**
-__bold__
 *italic*
-_italic_
 ~~strick sthrough~~
+
 > Quotation
 
 
 --- Horizontal rule
-*** asterisks
+*** 
 ___underscores
+
+List
+- nbr1
+- nbr2
+  - nbr3
+ 
+
