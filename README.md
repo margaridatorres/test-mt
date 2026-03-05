@@ -43,6 +43,13 @@ or `like` this
 - nbr1
 - nbr2
   - nbr3
+ 
+# Checklist
+
+- [X] First
+  - [X] one
+  - [ ] two
+- [ ] Second
 
 # Footnotes
 
