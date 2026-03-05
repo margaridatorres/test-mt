@@ -35,6 +35,13 @@ or `like` this
 - nbr2
   - nbr3
 
+# Footnotes
+
+this is a footnote [^1] and another one [^2].
+
+[^1]: My reference
+[^2]: Another footnote
+
  # Links
  
 [LinkedIn]
