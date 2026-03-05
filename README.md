@@ -46,5 +46,9 @@ https://www.linkedin.com
 
 # Code
 
-in brackets 'like this'
+'''
+in block
+'''
+
+or 'like' this
 
