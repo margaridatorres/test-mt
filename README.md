@@ -21,6 +21,15 @@ Demo content
 *** 
 ___underscores
 
+# Code
+
+```
+let x = 5;
+console.log(x);
+```
+
+or `like` this
+
 # List
 - nbr1
 - nbr2
@@ -44,12 +53,4 @@ https://www.linkedin.com
 
 ![Tomolor]
 
-# Code
-
-```
-let x = 5;
-console.log(x);
-```
-
-or `like` this
 
